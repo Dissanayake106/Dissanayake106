@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anuradha Naveen Dissanayake
 
-<h3 align="center">🚀 AI & Data Science Innovator | Building Intelligent Solutions for Tomorrow</h3>
+<h3 align="center">🌐 AI & Data Science Innovator | Building Intelligent Solutions for Tomorrow🌐</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Full-Stack+Developer;Blockchain+Explorer;Data+Science+Specialist;AI+Solutions+Architect" alt="Typing SVG" /></a>
@@ -20,13 +20,11 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
   <img src="https://skillicons.dev/icons?i=r" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/>
 </p>
 
 ### 📊 Data Visualization & Analysis
 <p>
-  <img src="https://skillicons.dev/icons?i=matplotlib" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
@@ -35,7 +33,6 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
 ### 🌐 Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,html,css,java" />
-  <img src="https://skillicons.dev/icons?i=nodejs,php" />
 </p>
 
 ### 🗄️ Databases & Backend
@@ -47,61 +44,22 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
 ### ⚙️ Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://skillicons.dev/icons?i=linux,figma" />
-  <img src="https://skillicons.dev/icons?i=illustrator,photoshop" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+<h3 align="left">📈 GitHub Analytics</h3>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dissanayake106&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dissanayake106&theme=radical" />
-</p>
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Dissanayake106&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Anuradha's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Dissanayake106&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Anuradha's Top Languages">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dissanayake106&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dissanayake106&theme=midnight-green)](https://git.io/streak-stats)
+
+<div align="center">
+
 
 ![Snake Animation](https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI-Powered Projects
-
-#### **ChatBotEurope - Generative AI with RAG System**
-> Advanced chatbot utilizing Generative AI and Retrieval-Augmented Generation for intelligent conversations
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=ray&logoColor=white" alt="RAG">
-</p>
-
-#### **Bank Loan Prediction Model using ANN**
-> Artificial Neural Network model for predicting bank loan approval with high accuracy
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-</p>
-
-#### **Bank Deposit Prediction using Random Forest**
-> Machine learning model predicting customer deposit behavior using Random Forest algorithm
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/RandomForest-00A86B?style=for-the-badge&logo=tree&logoColor=white" alt="Random Forest">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-</p>
-
-### 🔭 Current Work
-
-- **📰 AI-Powered News Application** - Java-based intelligent news aggregator
-- **🎯 Customer Segmentation Engine** - ML-driven recommendation system
-- **🎮 Crash Game Web App** - JavaScript gaming platform
-- **⛓️ Decentralized Exchange (DEX)** - Blockchain trading platform
 
 ---
 
@@ -174,13 +132,3 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
 </p>
 
 ---
-
-<h3 align="center">Activity Graph</h3>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dissanayake106&custom_title=Anuradha's%20GitHub%20Activity%20Graph&bg_color=141321&color=ffffff&line=4e00c2&point=ffffff&hide_border=true)
-
-<p align="center">
-	<a href="https://github.com/dissanayake106">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Data+Science+Explorer;Machine+Learning+Developer;Full-Stack+Innovator;Always+Learning+Growing&center=true&width=380&height=45">
-	</a>
-</p>
