@@ -56,7 +56,7 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dissanayake106&theme=midnight-green)](https://git.io/streak-stats)
 
-<div align="center">
+<div>
 
 
 ![Snake Animation](https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg)
