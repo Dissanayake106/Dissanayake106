@@ -6,11 +6,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Full-Stack+Developer;Blockchain+Explorer;Data+Science+Specialist;AI+Solutions+Architect" alt="Typing SVG" /></a>
 </p>
 
+![logo](https://raw.githubusercontent.com/Chathuwa99/Chathuwa99/main/Profile.png)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
 ---
 
 ## 🌟 About Me
 
-I'm a passionate AI and Data Science enthusiast with expertise in building intelligent solutions across multiple domains. My journey involves transforming complex problems into elegant, AI-driven solutions that make a real impact.
+I'm a passionate AI and Data Science enthusiast with expertise in building intelligent solutions across multiple domains. My journey involves transforming complex problems into elegant, AI-driven solutions that make a real impact. Currently exploring the depths of Machine Learning, Deep Learning, and their practical applications in real-world scenarios.
 
 ---
 
@@ -18,38 +21,37 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
 
 ### 🤖 AI & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=r" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/>
+</p>
+
+### 📊 Data Visualization & Analysis
+<p>
+  <img src="https://skillicons.dev/icons?i=matplotlib" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php" />
 </p>
 
 ### 🗄️ Databases & Backend
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase,postman" />
 </p>
 
-### ⛓️ Blockchain & Tools
+### ⚙️ Tools & Technologies
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white" alt="Blockchain">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,figma" />
+  <img src="https://skillicons.dev/icons?i=illustrator,photoshop" />
 </p>
 
 ---
@@ -65,16 +67,49 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dissanayake106&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
+![Snake Animation](https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-### 🔭 Working On
-- **🤖 AI-Powered News Application** - Java-based intelligent news aggregator
-- **📊 Customer Segmentation Engine** - ML-driven recommendation system
+### 🤖 AI-Powered Projects
+
+#### **ChatBotEurope - Generative AI with RAG System**
+> Advanced chatbot utilizing Generative AI and Retrieval-Augmented Generation for intelligent conversations
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=ray&logoColor=white" alt="RAG">
+</p>
+
+#### **Bank Loan Prediction Model using ANN**
+> Artificial Neural Network model for predicting bank loan approval with high accuracy
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+</p>
+
+#### **Bank Deposit Prediction using Random Forest**
+> Machine learning model predicting customer deposit behavior using Random Forest algorithm
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/RandomForest-00A86B?style=for-the-badge&logo=tree&logoColor=white" alt="Random Forest">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+</p>
+
+### 🔭 Current Work
+
+- **📰 AI-Powered News Application** - Java-based intelligent news aggregator
+- **🎯 Customer Segmentation Engine** - ML-driven recommendation system
+- **🎮 Crash Game Web App** - JavaScript gaming platform
 - **⛓️ Decentralized Exchange (DEX)** - Blockchain trading platform
 
-### 🌱 Learning
+---
+
+## 🌱 Currently Learning
+
 - **Advanced ML & Deep Learning** - Pushing the boundaries of AI
 - **NLP & Text Classification** - Understanding language through AI
 - **Blockchain Development** - Building decentralized futures
@@ -115,6 +150,9 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
   <a href="https://linkedin.com/in/c-a-n-dissanayake-914902314" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://github.com/dissanayake106" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
@@ -136,4 +174,16 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
   <a href="https://github.com/dissanayake106">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+Visiting!&fontSize=30&fontAlignY=65" alt="Footer" />
   </a>
+</p>
+
+---
+
+<h3 align="center">Activity Graph</h3>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dissanayake106&custom_title=Anuradha's%20GitHub%20Activity%20Graph&bg_color=141321&color=ffffff&line=4e00c2&point=ffffff&hide_border=true)
+
+<p align="center">
+	<a href="https://github.com/dissanayake106">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Data+Science+Explorer;Machine+Learning+Developer;Full-Stack+Innovator;Always+Learning+Growing&center=true&width=380&height=45">
+	</a>
 </p>
