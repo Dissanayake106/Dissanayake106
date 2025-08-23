@@ -3,8 +3,6 @@
 <h3 align="center">🌐 AI & Data Science Innovator | Building Intelligent Solutions for Tomorrow 🌐</h3>
 
 <p align="center">
-
-  <a href="https://github.com/Bouaskaoun">
     
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Full-Stack+Developer;Blockchain+Explorer;Data+Science+Specialist;AI+Solutions+Architect" alt="Typing SVG" /></a>
 </p>
