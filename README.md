@@ -3,7 +3,7 @@
 <h3 align="center">🌐 AI & Data Science Innovator | Building Intelligent Solutions for Tomorrow 🌐</h3>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Full-Stack+Developer;Blockchain+Explorer;Data+Science+Specialist;AI+Solutions+Architect" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Full-Stack+Developer;Data+Science+Specialist;AI+Solutions+Architect" alt="Typing SVG" /></a>
 </p>
 
 
@@ -13,6 +13,17 @@
 I'm a passionate AI and Data Science enthusiast with expertise in building intelligent solutions across multiple domains. My journey involves transforming complex problems into elegant, AI-driven solutions that make a real impact. Currently exploring the depths of Machine Learning, Deep Learning, and their practical applications in real-world scenarios.
 
 ---
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
 
 ## 🛠️ Tech Stack
 
