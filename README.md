@@ -14,6 +14,7 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
 
 ---
 
+
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
@@ -24,29 +25,28 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-
 ## 🛠️ Tech Stack
 
-### 🤖 AI & Machine Learning
+- ### AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
   <img src="https://skillicons.dev/icons?i=r" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/>
 </p>
 
-### 📊 Data Visualization & Analysis
+- ### Data Visualization & Analysis
 <p>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
 </p>
 
-### 🌐 Web Development
+- ### Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,html,css,java" />
 </p>
 
-### 🗄️ Databases & Backend
+- ### Databases & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <img src="https://skillicons.dev/icons?i=firebase,postman" />
