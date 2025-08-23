@@ -109,11 +109,7 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
 
 ## 📫 Get In Touch
 
-<p align="center">
-  <a href="mailto:naveendissanayake777@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="naveendissanayake777@gmail.com" height="30" width="40" />
-    </a>
-    
+<p align="center">  
   <a href="https://linkedin.com/in/c-a-n-dissanayake-914902314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathuwa99" height="30" width="40" />
   </a>
   
