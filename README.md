@@ -50,11 +50,11 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
 
 <h3 align="left">📈 GitHub Analytics</h3>
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Dissanayake106&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Anuradha's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Dissanayake106&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Anuradha's Github Stats" width="60%" height="60%">
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Dissanayake106&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Anuradha's Top Languages">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dissanayake106&theme=midnight-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dissanayake106&theme=midnight-purple)](https://git.io/streak-stats)
 
 <div>
 
