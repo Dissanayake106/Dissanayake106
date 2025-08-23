@@ -1,12 +1,15 @@
 # Hi 👋, I'm Anuradha Naveen Dissanayake
 
-<h3 align="center">🌐 AI & Data Science Innovator | Building Intelligent Solutions for Tomorrow🌐</h3>
+<h3 align="center">🌐 AI & Data Science Innovator | Building Intelligent Solutions for Tomorrow 🌐</h3>
 
 <p align="center">
+
+  <a href="https://github.com/Bouaskaoun">
+    
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Full-Stack+Developer;Blockchain+Explorer;Data+Science+Specialist;AI+Solutions+Architect" alt="Typing SVG" /></a>
 </p>
 
----
+
 
 ## 🌟 About Me
 
@@ -50,7 +53,7 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
 
 <h3 align="left">📈 GitHub Analytics</h3>
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Dissanayake106&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Anuradha's Github Stats" width="60%" height="60%">
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Dissanayake106&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Anuradha's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Dissanayake106&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Anuradha's Top Languages">
 
