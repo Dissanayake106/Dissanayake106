@@ -110,15 +110,15 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
 
 ## 📫 Get In Touch
 <p align="center">  
-    <a href="https://linkedin.com/in/c-a-n-dissanayake-914902314" target="blank">
+    <a href="https://linkedin.com/in/c-a-n-dissanayake-914902314">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dissanayake106" height="30" width="40" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Dissanayake106" target="blank">
+    <a href="https://github.com/Dissanayake106">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Dissanayake106" height="30" width="40" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://fb.com/anuradha.naveen.10" target="blank">
+    <a href="https://fb.com/anuradha.naveen.10">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dissanayake106" height="30" width="40" />
     </a>
 </p>
