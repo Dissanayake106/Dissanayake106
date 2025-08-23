@@ -110,14 +110,16 @@ I'm a passionate AI and Data Science enthusiast with expertise in building intel
 ## 📫 Get In Touch
 
 <p align="center">
-  <a href="mailto:naveendissanayake777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="mailto:naveendissanayake777@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="naveendissanayake777@gmail.com" height="30" width="40" />
+    </a>
+    
   <a href="https://linkedin.com/in/c-a-n-dissanayake-914902314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathuwa99" height="30" width="40" />
   </a>
-  <a href="https://github.com/dissanayake106" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  
+  <a href="https://github.com/Dissanayake106" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Dissanayake106" height="30" width="40" />
+    </a>
 </p>
 
 ---
